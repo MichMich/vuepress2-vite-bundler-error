@@ -1,9 +1,9 @@
 {
-  "name": "michaelteeuw.nl",
+  "name": "vuepress-vite-error-example",
   "version": "1.0.0",
-  "description": "MichaelTeeuw.nl",
+  "description": "Vuepress Vite Bundler Error Example",
   "scripts": {
-    "dev": "vuepress dev --clean-temp --clean-cache",
+    "dev": "vuepress dev",
     "build": "vuepress build"
   },
   "author": "Michael Teeuw",
