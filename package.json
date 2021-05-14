@@ -1,0 +1,15 @@
+{
+  "name": "michaelteeuw.nl",
+  "version": "1.0.0",
+  "description": "MichaelTeeuw.nl",
+  "scripts": {
+    "dev": "vuepress dev --clean-temp --clean-cache",
+    "build": "vuepress build"
+  },
+  "author": "Michael Teeuw",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.14",
+    "vuepress-vite": "*"
+  }
+}
